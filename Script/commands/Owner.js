@@ -19,32 +19,29 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗦𝗔𝗛𝗨
+║ 👑 𝗡𝗮𝗺𝗲 : ᖴᴀʜɪᴍ ᗩʜᴍᴇᴅ
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : ᖴᴀʜɪᴍ
 ║ 🎂 𝗔𝗴𝗲 : 𝟭𝟴+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
 ║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗦𝗖
-║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗞𝗵𝗮𝗴𝗿𝗮𝗰𝗵𝗮𝗿𝗶
+║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : ᴅʜᴀᴋᴀ
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ fb.com/100001039692046
+║ fb.com/61587926753645
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/100001039692046
+║ m.me/61587926753645
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-║ wa.me/01882333052
+║ wa.me/01771240377
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
-║ t.me/yoursahu
+║ t.me/fahimahmedraj420
 ╚═════════════════════ ✿
 `;
 
   const images = [
-    "https://i.imgur.com/8WBso8x.png",
-    "https://i.imgur.com/0VZu5eY.png",
-    "https://i.imgur.com/bkixgPK.jpeg",
-    "https://i.imgur.com/z6G6L4c.jpeg"
+    "https://i.imgur.com/Dq1w3Ns.jpeg", "https://i.imgur.com/IFs8uSj.jpeg", "https://i.imgur.com/SpkOQj0.jpeg", "https://i.imgur.com/khIwIo3.jpeg", "https://i.imgur.com/9wcV95H.jpeg", "https://i.imgur.com/NgdnlRp.jpeg", "https://i.imgur.com/uij9Us1.jpeg", "https://i.imgur.com/VSOwRRO.jpeg", "https://i.imgur.com/URhRBPi.jpeg", "https://i.imgur.com/YZtWQSx.jpeg", "https://i.imgur.com/ZLYUL5w.png", "https://i.imgur.com/ArDPP2g.jpeg", "https://i.imgur.com/fwvU6kC.png", "https://i.imgur.com/YMESPIC.jpeg", "https://i.imgur.com/xwmZsiu.jpeg", "https://i.imgur.com/Aw1PYQq.jpeg", "https://i.imgur.com/1ZjnuwN.jpeg"
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
