@@ -15,9 +15,9 @@ module.exports = {
     const messageID = event.messageID;
     const input = args.join(" ").trim();
 
-    let SAHU;
+    let FAHIM;
     try {
-      SAHU = (
+      FAHIM = (
         await axios.get(
           "https://raw.githubusercontent.com/shahadat-sahu/SAHU-API/refs/heads/main/SAHU-API.json"
         )
